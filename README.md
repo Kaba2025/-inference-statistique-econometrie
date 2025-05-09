@@ -35,4 +35,4 @@ Elles contiennent des informations sur le sexe, l’âge, la situation familiale
 ## Auteur
 **Kaba Mahamoud Toib**  
 Master Statistique, Économétrie et Data Science – INSEEDS  
-Contact : [ton e-mail ou lien LinkedIn si tu veux le mettre]
+Contact : kabamahmoudtoib2024@gmail.com
